@@ -34,6 +34,10 @@ it define how an app should be built/packaged and deployed with Docker. They are
 
 # Resources 
 
-[Docker’s own description](https://www.docker.com/why-docker)
-[Dockerfile documentation](https://docs.docker.com/engine/reference/builder/)
-[DevOps Road Map](https://dzone.com/articles/the-devops-roadmap-for-programmers)
+* [Docker’s own description](https://www.docker.com/why-docker)
+
+* [Dockerfile documentation](https://docs.docker.com/engine/reference/builder/)
+
+* [DevOps Road Map](https://dzone.com/articles/the-devops-roadmap-for-programmers)
+
+* [containers are not lightweight vms](https://www.linuxfoundation.org/blog/2017/05/containers-are-not-lightweight-vms/)
